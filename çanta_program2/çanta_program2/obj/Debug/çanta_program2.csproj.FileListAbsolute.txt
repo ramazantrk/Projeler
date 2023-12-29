@@ -1,0 +1,28 @@
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe.config
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\bin\Debug\çanta_program2.pdb
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Form1.resources
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Properties.Resources.resources
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csproj.GenerateResource.Cache
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.exe
+C:\Users\Ogr-13\Desktop\selma yavuz\çanta_program2\çanta_program2\obj\Debug\çanta_program2.pdb
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe.config
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.exe
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.pdb
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\bin\Debug\çanta_program2.pdb
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Form1.resources
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Properties.Resources.resources
+C:\Users\PC\Desktop\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csproj.GenerateResource.Cache
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe.config
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\bin\Debug\çanta_program2.exe
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\bin\Debug\çanta_program2.pdb
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Form1.resources
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.exe
+C:\Users\Ramazan\Desktop\projeler\çanta_program2\çanta_program2\obj\Debug\çanta_program2.pdb

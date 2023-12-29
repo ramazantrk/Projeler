@@ -1,0 +1,75 @@
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.pdb
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csprojResolveAssemblyReference.cache
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form1.resources
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form2.resources
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Properties.Resources.resources
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csproj.GenerateResource.Cache
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+C:\Users\OEM\Desktop\Yeni klasör\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.pdb
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csprojResolveAssemblyReference.cache
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form1.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form2.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form3.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Properties.Resources.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csproj.GenerateResource.Cache
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.pdb
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csprojResolveAssemblyReference.cache
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form1.resources
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form2.resources
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form3.resources
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Properties.Resources.resources
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csproj.GenerateResource.Cache
+C:\Users\OEM\Desktop\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form4.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form4.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form5.resources
+D:\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form6.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csprojResolveAssemblyReference.cache
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form1.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form2.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form3.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form4.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form5.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Properties.Resources.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csproj.GenerateResource.Cache
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.pdb
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form7.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form8.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form9.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form10.resources
+D:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form11.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.pdb
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csprojResolveAssemblyReference.cache
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form1.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form10.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form11.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form2.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form3.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form4.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form5.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form7.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form8.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Form9.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA_ÖDM.Properties.Resources.resources
+F:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.csproj.GenerateResource.Cache
+E:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\bin\Debug\KONYA ÖDM.exe.config
+E:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.exe
+E:\OKUL\konya Ödm\KONYA ÖDM\KONYA ÖDM\obj\Debug\KONYA ÖDM.pdb
