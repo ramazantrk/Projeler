@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\bin\Debug\degerler24.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\bin\Debug\degerler24.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\bin\Debug\degerler24.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler24\degerler24\obj\Debug\degerler24.pdb

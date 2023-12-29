@@ -1,0 +1,28 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\bin\Debug\asistan.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\bin\Debug\asistan.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\bin\Debug\asistan.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk\asistan\obj\Debug\asistan.csproj.ResolveComReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\bin\Debug\asistan.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.csproj.ResolveComReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\bin\Debug\asistan.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\bin\Debug\asistan.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\asistan\obj\Debug\asistan.csproj.GenerateResource.Cache

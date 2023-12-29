@@ -1,0 +1,12 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\bin\Debug\oyun2.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\bin\Debug\oyun2.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\bin\Debug\oyun2.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun2\obj\Debug\oyun2.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun2\bin\Debug\oyun2.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun2\obj\Debug\oyun2.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun2\obj\Debug\oyun2.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\bin\Debug\degerler13.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\bin\Debug\degerler13.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\bin\Debug\degerler13.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degerler13\degerler13\obj\Debug\degerler13.pdb

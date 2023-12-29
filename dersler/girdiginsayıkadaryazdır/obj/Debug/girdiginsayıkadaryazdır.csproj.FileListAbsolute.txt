@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\bin\Debug\girdiginsayıkadaryazdır.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\bin\Debug\girdiginsayıkadaryazdır.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\bin\Debug\girdiginsayıkadaryazdır.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\girdiginsayıkadaryazdır\obj\Debug\girdiginsayıkadaryazdır.pdb

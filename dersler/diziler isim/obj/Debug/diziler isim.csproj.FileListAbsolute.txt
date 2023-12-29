@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\bin\Debug\diziler isim.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\bin\Debug\diziler isim.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\bin\Debug\diziler isim.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler isim.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler_isim.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler_isim.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler isim.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler isim.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler isim\obj\Debug\diziler isim.pdb

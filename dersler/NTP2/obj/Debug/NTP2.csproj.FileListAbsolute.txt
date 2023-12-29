@@ -1,0 +1,8 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\bin\Debug\NTP2.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\bin\Debug\NTP2.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\bin\Debug\NTP2.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\obj\Debug\NTP2.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\obj\Debug\NTP2.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\obj\Debug\NTP2.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\obj\Debug\NTP2.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\NTP2\obj\Debug\NTP2.pdb

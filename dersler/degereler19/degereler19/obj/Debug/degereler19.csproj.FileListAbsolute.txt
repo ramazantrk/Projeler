@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\bin\Debug\degereler19.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\bin\Debug\degereler19.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\bin\Debug\degereler19.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\degereler19\degereler19\obj\Debug\degereler19.pdb

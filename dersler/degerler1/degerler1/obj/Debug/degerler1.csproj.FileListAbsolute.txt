@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\bin\Debug\degerler1.exe.config
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.Form1.resources
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\bin\Debug\degerler1.exe
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\bin\Debug\degerler1.pdb
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.exe
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.pdb
+C:\Users\Ogr-0\Desktop\RamazanTürk  10B\degerler1\degerler1\obj\Debug\degerler1.csprojResolveAssemblyReference.cache

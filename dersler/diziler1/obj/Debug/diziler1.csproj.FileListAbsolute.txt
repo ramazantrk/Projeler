@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\bin\Debug\diziler1.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\bin\Debug\diziler1.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\bin\Debug\diziler1.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\diziler1\obj\Debug\diziler1.pdb

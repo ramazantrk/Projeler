@@ -1,0 +1,12 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\bin\Debug\kendin_yap.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\bin\Debug\kendin_yap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\bin\Debug\kendin_yap.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kendin_yap\obj\Debug\kendin_yap.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kendin_yap\bin\Debug\kendin_yap.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kendin_yap\obj\Debug\kendin_yap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kendin_yap\obj\Debug\kendin_yap.pdb

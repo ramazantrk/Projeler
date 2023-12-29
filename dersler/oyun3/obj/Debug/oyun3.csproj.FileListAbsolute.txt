@@ -1,0 +1,20 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\bin\Debug\oyun3.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\bin\Debug\oyun3.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\bin\Debug\oyun3.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.Form2.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun3\obj\Debug\oyun3.Form3.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\bin\Debug\oyun3.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.Form2.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.Form3.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun3\obj\Debug\oyun3.csproj.GenerateResource.Cache

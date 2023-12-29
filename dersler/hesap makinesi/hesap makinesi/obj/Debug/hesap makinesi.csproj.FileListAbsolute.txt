@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb

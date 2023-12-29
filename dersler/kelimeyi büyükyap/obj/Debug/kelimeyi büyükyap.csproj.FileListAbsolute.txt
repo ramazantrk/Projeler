@@ -1,0 +1,11 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\bin\Debug\kelimeyi büyükyap.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\bin\Debug\kelimeyi büyükyap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\bin\Debug\kelimeyi büyükyap.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\obj\Debug\kelimeyi_büyükyap.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\obj\Debug\kelimeyi_büyükyap.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\obj\Debug\kelimeyi büyükyap.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\obj\Debug\kelimeyi büyükyap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\kelimeyi büyükyap\obj\Debug\kelimeyi büyükyap.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kelimeyi büyükyap\bin\Debug\kelimeyi büyükyap.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kelimeyi büyükyap\obj\Debug\kelimeyi büyükyap.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\kelimeyi büyükyap\obj\Debug\kelimeyi büyükyap.pdb

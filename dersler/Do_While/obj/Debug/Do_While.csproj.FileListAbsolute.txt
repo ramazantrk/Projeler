@@ -1,0 +1,9 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\bin\Debug\Do_While.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\bin\Debug\Do_While.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Do_While\obj\Debug\Do_While.pdb
