@@ -1,0 +1,12 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\bin\Debug\Among_Us.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\bin\Debug\Among_Us.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\bin\Debug\Among_Us.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us\obj\Debug\Among_Us.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us - Kopya\bin\Debug\Among_Us.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us - Kopya\obj\Debug\Among_Us.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Among US\Among_Us - Kopya\obj\Debug\Among_Us.pdb

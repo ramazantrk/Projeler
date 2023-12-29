@@ -1,0 +1,39 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\oyun\oyun\obj\Debug\oyun.wwww.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.wwww.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.wwww.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+D:\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.exe.config
+D:\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.exe
+D:\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.pdb
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.exe.config
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.exe
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.pdb
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.exe
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\bin\Debug\oyun.pdb
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.wwww.resources
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.Properties.Resources.resources
+D:\OKUL\Ramazan Türk\Fliby Bord\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache

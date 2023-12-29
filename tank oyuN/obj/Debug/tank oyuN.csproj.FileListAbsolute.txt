@@ -1,0 +1,27 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csprojResolveAssemblyReference.cache
+D:\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe.config
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.exe
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.pdb
+D:\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe
+D:\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.pdb
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csprojResolveAssemblyReference.cache
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Form1.resources
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Properties.Resources.resources
+D:\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csproj.GenerateResource.Cache
+D:\OKUL\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe.config
+D:\OKUL\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.exe
+D:\OKUL\Ramazan Türk\tank oyuN\bin\Debug\tank oyuN.pdb
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csprojResolveAssemblyReference.cache
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Form1.resources
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank_oyuN.Properties.Resources.resources
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.csproj.GenerateResource.Cache
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.exe
+D:\OKUL\Ramazan Türk\tank oyuN\obj\Debug\tank oyuN.pdb

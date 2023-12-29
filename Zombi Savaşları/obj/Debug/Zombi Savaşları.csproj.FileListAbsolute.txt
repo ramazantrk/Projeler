@@ -1,0 +1,22 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.arkadasınla_savas.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.form3.resources
+D:\OKUL\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.exe.config
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.exe
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.pdb
+D:\OKUL\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.exe
+D:\OKUL\Ramazan Türk\Zombi Savaşları\bin\Debug\Zombi Savaşları.pdb
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.csprojResolveAssemblyReference.cache
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.arkadasınla_savas.resources
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.Form1.resources
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.form3.resources
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi_Savaşları.Properties.Resources.resources
+D:\OKUL\Ramazan Türk\Zombi Savaşları\obj\Debug\Zombi Savaşları.csproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Form1.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Properties.Resources.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.csproj.GenerateResource.Cache
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.pdb
+C:\Users\Ogr-0\Desktop\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Form2.resources
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\at yarışı oyunu\bin\Debug\at yarışı oyunu.exe.config
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\at yarışı oyunu\obj\Debug\at yarışı oyunu.exe
+C:\Users\Ogr-0\Desktop\Ramazan Türk  Sakın Silme\at yarışı oyunu\obj\Debug\at yarışı oyunu.pdb
+D:\OKUL\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.exe.config
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.exe
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.pdb
+D:\OKUL\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.exe
+D:\OKUL\Ramazan Türk\at yarışı oyunu\bin\Debug\at yarışı oyunu.pdb
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.csprojResolveAssemblyReference.cache
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Form1.resources
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Form2.resources
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at_yarışı_oyunu.Properties.Resources.resources
+D:\OKUL\Ramazan Türk\at yarışı oyunu\obj\Debug\at yarışı oyunu.csproj.GenerateResource.Cache
